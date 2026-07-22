@@ -1,0 +1,322 @@
+[
+  {
+    "id": "hmk-6100",
+    "type": "statute",
+    "title": "6100 sayılı Hukuk Muhakemeleri Kanunu",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6100.pdf",
+    "publisher": "T.C. Mevzuat Bilgi Sistemi",
+    "checkedAt": "2026-07-20"
+  },
+  {
+    "id": "iik-2004",
+    "type": "statute",
+    "title": "2004 sayılı İcra ve İflâs Kanunu",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2004.pdf",
+    "publisher": "T.C. Mevzuat Bilgi Sistemi",
+    "checkedAt": "2026-07-20"
+  },
+  {
+    "id": "tmk-4721",
+    "type": "statute",
+    "title": "4721 sayılı Türk Medenî Kanunu",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+    "publisher": "T.C. Mevzuat Bilgi Sistemi",
+    "checkedAt": "2026-07-20"
+  },
+  {
+    "id": "tuketici-6502",
+    "type": "statute",
+    "title": "6502 sayılı Tüketicinin Korunması Hakkında Kanun",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6502.pdf",
+    "publisher": "T.C. Mevzuat Bilgi Sistemi",
+    "checkedAt": "2026-07-20"
+  },
+  {
+    "id": "is-7036",
+    "type": "statute",
+    "title": "7036 sayılı İş Mahkemeleri Kanunu",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7036.pdf",
+    "publisher": "T.C. Mevzuat Bilgi Sistemi",
+    "checkedAt": "2026-07-20"
+  },
+  {
+    "id": "ttk-6102",
+    "type": "statute",
+    "title": "6102 sayılı Türk Ticaret Kanunu",
+    "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6102.pdf",
+    "publisher": "T.C. Mevzuat Bilgi Sistemi",
+    "checkedAt": "2026-07-20"
+  },
+  {
+    "id": "hsk-archive",
+    "type": "official-directory",
+    "title": "HSK Yargı Çevresi Duyuru Arşivi",
+    "url": "https://www.hsk.gov.tr/Arsiv/duyuru",
+    "publisher": "Hâkimler ve Savcılar Kurulu",
+    "checkedAt": "2026-07-20"
+  },
+  {
+    "id": "justice-units",
+    "type": "official-directory",
+    "title": "Adalet Bakanlığı Birimler Rehberi",
+    "url": "https://www.adalet.gov.tr/Birimler/Adliyeler",
+    "publisher": "T.C. Adalet Bakanlığı",
+    "checkedAt": "2026-07-20"
+  },
+  {
+    "id": "hsk-adli-yargi-rehberi-2024",
+    "type": "official-directory",
+    "title": "Adlî Yargı Rehberi (1.001 mahal/adliye kaydı)",
+    "url": "https://rayp.adalet.gov.tr/resimler/351/dosya/adliye-rehberi08-05-20242-35-pm.pdf",
+    "publisher": "Hâkimler ve Savcılar Kurulu / T.C. Adalet Bakanlığı",
+    "checkedAt": "2026-07-20"
+  },
+  {
+    "id": "hsk-2025-1080",
+    "type": "official-decision",
+    "title": "HSK Genel Kurulu 06.08.2025 tarihli ve 1080 sayılı karar",
+    "url": "https://www.hsk.gov.tr/Eklentiler/12082025095506082025-tarihli-ve-1068-1081-sayili-kararlarpdf.pdf",
+    "publisher": "Hâkimler ve Savcılar Kurulu",
+    "checkedAt": "2026-07-20"
+  },
+  {
+    "id": "ankara-bati-dsm-yetki",
+    "type": "official-directory",
+    "title": "Ankara Batı Adli Yargı Adalet Komisyonu yargı çevresi",
+    "url": "https://ankarabatidsm.adalet.gov.tr/yetki-alani",
+    "publisher": "T.C. Adalet Bakanlığı",
+    "checkedAt": "2026-07-20"
+  },
+  {
+    "id": "mahkeme-org-arhavi",
+    "type": "secondary-directory",
+    "title": "Arhavi Adliyesi ve mahkemeleri",
+    "url": "https://mahkeme.org/ilce/arhavi/",
+    "publisher": "mahkeme.org",
+    "checkedAt": "2026-07-20"
+  },
+  {
+    "id": "icra-gen-2026-directory",
+    "type": "secondary-directory",
+    "title": "İlçe ilçe adliye rehberi (2026)",
+    "url": "https://www.icra.gen.tr/ilce-ilce-adliye-rehberi-hangi-ilce-hangi-adliyeye-bagli-2026-guncel/",
+    "publisher": "icra.gen.tr",
+    "checkedAt": "2026-07-20"
+  },
+  {
+    "id": "hsk-2024-1270-1271",
+    "type": "official-decision",
+    "title": "HSK 03.07.2024 tarihli 1270 ve 1271 sayılı kararlar",
+    "url": "https://www.hsk.gov.tr/Eklentiler/04072024095003072024-tarihli-kararlarpdf.pdf",
+    "publisher": "Hâkimler ve Savcılar Kurulu",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "hsk-2025-1068-1081",
+    "type": "official-decision",
+    "title": "HSK 06.08.2025 tarihli 1068-1081 sayılı kararlar",
+    "url": "https://www.hsk.gov.tr/Eklentiler/12082025095506082025-tarihli-ve-1068-1081-sayili-kararlarpdf.pdf",
+    "publisher": "Hâkimler ve Savcılar Kurulu",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "hsk-2026-576",
+    "type": "official-decision",
+    "title": "HSK 06.05.2026 tarihli ve 576 sayılı karar",
+    "url": "https://www.hsk.gov.tr/Eklentiler/070520261522576pdf.pdf",
+    "publisher": "Hâkimler ve Savcılar Kurulu",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "adalet-pgm-2026-mahal",
+    "type": "official-directory",
+    "title": "Adalet Bakanlığı 2026 mahal bazlı bölge ve puan tablosu",
+    "url": "https://pgm.adalet.gov.tr/Resimler/SayfaDokuman/11052026165630Ek1-MahalBazliBolgevePuanTablosu.pdf",
+    "publisher": "T.C. Adalet Bakanlığı Personel Genel Müdürlüğü",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "adalet-seydikemer",
+    "type": "official-directory",
+    "title": "Seydikemer Adliyesi iletişim bilgileri",
+    "url": "https://fethiye.adalet.gov.tr/seydikemer-adliyesi-iletisim-bilgileri",
+    "publisher": "T.C. Adalet Bakanlığı",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "adalet-armutlu",
+    "type": "official-directory",
+    "title": "Armutlu Adliyesi",
+    "url": "https://yalova.adalet.gov.tr/Armutlu%20Adliyesi",
+    "publisher": "T.C. Adalet Bakanlığı",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "adalet-inonu",
+    "type": "official-directory",
+    "title": "İnönü Adliyesi",
+    "url": "https://eskisehir.adalet.gov.tr/inonu-adliyesi",
+    "publisher": "T.C. Adalet Bakanlığı",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "adalet-harmancik",
+    "type": "official-directory",
+    "title": "Harmancık Adliyesi",
+    "url": "https://bursa.adalet.gov.tr/harmancik-adliyesi",
+    "publisher": "T.C. Adalet Bakanlığı",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "adalet-gaziosmanpasa",
+    "type": "official-directory",
+    "title": "Gaziosmanpaşa Adliyesi",
+    "url": "https://gaziosmanpasa.adalet.gov.tr/adliyemiz",
+    "publisher": "T.C. Adalet Bakanlığı",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "hsk-2025-gaziosmanpasa-activation",
+    "type": "official-decision",
+    "title": "HSK Birinci Dairesinin 08.08.2025 tarihli ve 1231 sayılı kararı",
+    "url": "https://www.hsk.gov.tr/Eklentiler/100820252110birinci-bolge-kararipdf.pdf",
+    "publisher": "Hâkimler ve Savcılar Kurulu",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "adalet-istanbul-yargi-cevresi",
+    "type": "official-directory",
+    "title": "İstanbul Adliyesi güncel yargı alanı",
+    "url": "https://istanbul.adalet.gov.tr/sikca-sorulan-sorular",
+    "publisher": "T.C. Adalet Bakanlığı",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "adalet-bakirkoy-adalet-sarayi",
+    "type": "official-directory",
+    "title": "Bakırköy Adalet Sarayı ve hizmet verdiği ilçeler",
+    "url": "https://bakirkoy.adalet.gov.tr/bakirkoy-adalet-sarayi",
+    "publisher": "T.C. Adalet Bakanlığı",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "adalet-kucukcekmece-adalet-sarayi",
+    "type": "official-directory",
+    "title": "Küçükçekmece Adalet Sarayı ve yargı çevresi",
+    "url": "https://kucukcekmece.adalet.gov.tr/kucukcekmece-adalet-sarayi",
+    "publisher": "T.C. Adalet Bakanlığı",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "adalet-istanbul-anadolu",
+    "type": "official-directory",
+    "title": "İstanbul Anadolu Adalet Sarayı",
+    "url": "https://istanbulanadolu.adalet.gov.tr/anadolu-adalet-sarayi",
+    "publisher": "T.C. Adalet Bakanlığı",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "adalet-istanbul-anadolu-mulhakat",
+    "type": "official-directory",
+    "title": "İstanbul Anadolu Adalet Sarayı mülhakat adliyeleri",
+    "url": "https://istanbulanadolu.adalet.gov.tr/anadolu-adalet-sarayi-mulhakat-adliyeleri",
+    "publisher": "T.C. Adalet Bakanlığı",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "adalet-buyukcekmece",
+    "type": "official-directory",
+    "title": "Büyükçekmece Adliyesi",
+    "url": "https://bakirkoy.adalet.gov.tr/buyukcekmece-adliyesi",
+    "publisher": "T.C. Adalet Bakanlığı",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "adalet-bakirkoy-2025-faaliyet",
+    "type": "official-directory",
+    "title": "Bakırköy Adliyesi 2025 yılı faaliyet raporu",
+    "url": "https://rayp.adalet.gov.tr/resimler/17/dosya/evrak2026-04-03-10-01-0603-04-202610-02-am.pdf",
+    "publisher": "T.C. Adalet Bakanlığı",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "adalet-silivri-catalca",
+    "type": "official-directory",
+    "title": "Çatalca Adliyesi",
+    "url": "https://silivri.adalet.gov.tr/catalca-adliyesi",
+    "publisher": "T.C. Adalet Bakanlığı",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "adalet-silivri",
+    "type": "official-directory",
+    "title": "Silivri Adliyesi",
+    "url": "https://silivri.adalet.gov.tr/",
+    "publisher": "T.C. Adalet Bakanlığı",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "hsk-2019-230",
+    "type": "official-decision",
+    "title": "HSK 26.06.2019 tarihli ve 230 sayılı BAM yargı çevresi kararı",
+    "url": "https://www.hsk.gov.tr/bolge-adliye-mahkemelerinin-yargi-cevrelerinin-yeniden-belirlenmesine-iliskin-26062019-tarihli-ve-230-sayili-karar",
+    "publisher": "Hâkimler ve Savcılar Kurulu",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "hsk-2024-1269",
+    "type": "official-decision",
+    "title": "HSK 03.07.2024 tarihli ve 1269 sayılı Denizli ve Tekirdağ BAM kararı",
+    "url": "https://www.hsk.gov.tr/Eklentiler/04072024095003072024-tarihli-kararlarpdf.pdf",
+    "publisher": "Hâkimler ve Savcılar Kurulu",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "hsk-2025-785",
+    "type": "official-decision",
+    "title": "HSK 17.04.2025 tarihli ve 785 sayılı Ankara ve Sakarya BAM kararı",
+    "url": "https://www.hsk.gov.tr/Eklentiler/21042025101617042025-785pdf.pdf",
+    "publisher": "Hâkimler ve Savcılar Kurulu",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "hsk-2026-574",
+    "type": "official-decision",
+    "title": "HSK 06.05.2026 tarihli ve 574 sayılı Malatya BAM kararı",
+    "url": "https://www.hsk.gov.tr/Eklentiler/070520261519574pdf.pdf",
+    "publisher": "Hâkimler ve Savcılar Kurulu",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "ankara-bam-yargi-cevresi",
+    "type": "official-directory",
+    "title": "Ankara BAM yargı çevresi",
+    "url": "https://ankarabam.adalet.gov.tr/yargi-cevresi",
+    "publisher": "Ankara Bölge Adliye Mahkemesi",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "antalya-bam-yargi-cevresi",
+    "type": "official-directory",
+    "title": "Antalya BAM yargı çevresi",
+    "url": "https://antalyabam.adalet.gov.tr/yargi-cevresi",
+    "publisher": "Antalya Bölge Adliye Mahkemesi",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "izmir-bam-yargi-cevresi",
+    "type": "official-directory",
+    "title": "İzmir BAM yargı çevresi",
+    "url": "https://izmirbam.adalet.gov.tr/yargi-cevresi",
+    "publisher": "İzmir Bölge Adliye Mahkemesi",
+    "checkedAt": "2026-07-22"
+  },
+  {
+    "id": "denizli-bam-2025-faaliyet",
+    "type": "official-report",
+    "title": "Denizli BAM 2025 yılı faaliyet raporu",
+    "url": "https://rayp.adalet.gov.tr/resimler/653/dosya/2025-yili-faaliyet-raporu-resimsiz12-03-202610-20-am.pdf",
+    "publisher": "Denizli Bölge Adliye Mahkemesi",
+    "checkedAt": "2026-07-22"
+  }
+]

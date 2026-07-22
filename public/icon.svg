@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Adliye Haritası">
+  <defs>
+    <linearGradient id="bg" x1="70" y1="55" x2="442" y2="458" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1d5069"/>
+      <stop offset="1" stop-color="#0b2537"/>
+    </linearGradient>
+    <linearGradient id="pin" x1="148" y1="80" x2="357" y2="432" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f2c46e"/>
+      <stop offset="1" stop-color="#b86e2c"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="118" fill="url(#bg)"/>
+  <rect x="18" y="18" width="476" height="476" rx="102" fill="none" stroke="#fff" stroke-opacity=".12" stroke-width="8"/>
+  <path fill="url(#pin)" d="M256 57c-99 0-171 70-171 166 0 119 139 211 171 232 32-21 171-113 171-232 0-96-72-166-171-166Z"/>
+  <circle cx="256" cy="216" r="108" fill="#f8f2e5"/>
+  <path fill="#173e55" d="m256 135-82 38v18h164v-18l-82-38Zm-58 76v74h-18v24h152v-24h-18v-74h-22v74h-25v-74h-22v74h-25v-74h-22Z"/>
+  <circle cx="256" cy="172" r="11" fill="#c17b35"/>
+</svg>
